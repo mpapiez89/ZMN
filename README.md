@@ -1,2 +1,2 @@
 # ZMN
-Zaawansowane metody numeryczne - projekty grupowe
+Zaawansowane metody numeryczne - projekt Simplex
